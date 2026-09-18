@@ -1,6 +1,6 @@
 # Collaboration Guidelines
 
-Collaboration requires clear communication and well-defined responsibilities.
+Effective teamwork depends on continuous feedback and shared understanding.
 
 Contributors are encouraged to make small, focused changes and to explain their reasoning clearly in commit messages and pull requests.
 
