@@ -1,6 +1,6 @@
-\## v1.1.0
+\## Unreleased
 
-\- Se actualizó la documentación de introducción e historial del proyecto.
+\- Se actualizaron los documentos de introducción e historial del proyecto de forma colaborativa.
 
-\- Se resolvió con éxito el conflicto en el archivo de colaboración.
+\- Se resolvió el conflicto de integración en el archivo docs/collaboration.md combinando las ramas.
 
