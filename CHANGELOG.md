@@ -1,6 +1,6 @@
-\## v1.1.0
+## v1.1.0
 
-\- Se actualizaron los documentos de introducción e historial del proyecto de forma colaborativa.
+- Se actualizaron los documentos de introducción e historial del proyecto de forma colaborativa.
 
-\- Se resolvió el conflicto de integración en el archivo docs/collaboration.md combinando las ramas.
+- Se resolvió el conflicto de integración en el archivo docs/collaboration.md combinando las ramas.
 
