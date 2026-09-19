@@ -1,4 +1,4 @@
-\## Unreleased
+\## v1.1.0
 
 \- Se actualizaron los documentos de introducción e historial del proyecto de forma colaborativa.
 
