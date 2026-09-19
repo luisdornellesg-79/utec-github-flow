@@ -1,3 +1,6 @@
-## Unreleased
-- Actualización de los documentos de introducción e historial del proyecto.
-- Resolución exitosa del conflicto en el documento de colaboración (docs/collaboration.md)
+\## v1.1.0
+
+\- Se actualizó la documentación de introducción e historial del proyecto.
+
+\- Se resolvió con éxito el conflicto en el archivo de colaboración.
+
